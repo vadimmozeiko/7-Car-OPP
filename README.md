@@ -4,11 +4,11 @@
 # JS - OOP
 _Introduction to Javascrips OOP_
 
-This is mainly to learn basic Javascript object oriented programming syntax and CRUD.
+This is mainly to practice basic Javascript object oriented programming syntax.
 
-Created a Todo list in console. You can add, remove, edit, change status. 
+Created a CAR model in console. You can add a car, turn engine on/off, fillup the tank and drive. The amount of miles you drive will be added to mileage, consume fuel from tank according to consumption. 
 
-Basic validation and error messages set.
+Error messages are set if engine is off, or tank is empty etc.  
 
 
 
@@ -16,7 +16,6 @@ Basic validation and error messages set.
 
 -   Javascript syntax
 -   Class objects
--   Object functions (CRUD)
 
 
 ## Authors
